@@ -1,0 +1,47 @@
+Name: Michael Smith Account Number: 11111 Transaction Number: 1 Merchant: CFA Institute          4349515499    Transaction Amount: 1009.9
+Name: Michael Smith Account Number: 11111 Transaction Number: 15 Merchant: KROGER #2 4000 POLK    HOUSTON        Transaction Amount: 2300
+Name: Klonowski Karl Account Number: 25770 Transaction Number: 31 Merchant: ENTERPRISE RENT-A-CAR  PHOENIX       Transaction Amount: 556.45
+Name: Whobrey Yuki Account Number: 26607 Transaction Number: 8 Merchant: UNITED                 800-932-2732  Transaction Amount: 244.4
+Name: Don Fuller Account Number: 53111 Transaction Number: 1 Merchant: CFA Institute          4349515499    Transaction Amount: 1009.9
+Name: Venere Art Account Number: 31094 Transaction Number: 135 Merchant: NIKO NIKO'S MONTROSE   7135280966    Transaction Amount: 113.52
+Name: Venere Art Account Number: 31094 Transaction Number: 28 Merchant: EL TIEMPO CANTINA WEBS WEBSTER       Transaction Amount: 95.57
+Name: Mirasca Sam Account Number: 53222 Transaction Number: 1 Merchant: CFA Institute          4349515499    Transaction Amount: 1009.9
+Name: Inouye Veronika Account Number: 33717 Transaction Number: 97 Merchant: CINFIN-PERSONAL-INSUR  888-242-0888  Transaction Amount: 3785
+Name: Inouye Veronika Account Number: 33717 Transaction Number: 43 Merchant: MIDWESTERN AUTO GROUP  DUBLIN        Transaction Amount: 3505.28
+Name: Rulapaugh Kati Account Number: 31593 Transaction Number: 2 Merchant: NORTH HOUSTON BEEMER L SPRING        Transaction Amount: 859.75
+Name: Foller Donette Account Number: 37466 Transaction Number: 168 Merchant: POSHMARK               6504887740    Transaction Amount: 224.2
+Name: Foller Donette Account Number: 37466 Transaction Number: 166 Merchant: ARGAUX                 COSTA MESA    Transaction Amount: 188
+Name: Foller Donette Account Number: 37466 Transaction Number: 79 Merchant: 3200 S SHEPHERD DR     HOUSTON        Transaction Amount: 203
+Name: Morasca Simona Account Number: 38829 Transaction Number: 65 Merchant: CFA Institute          4349515499    Transaction Amount: 1009.9
+Name: Morasca Simona Account Number: 38829 Transaction Number: 129 Merchant: 230 WEST ALABAMA APART 713-5298707   Transaction Amount: 1263.27
+Name: Morasca Simona Account Number: 38829 Transaction Number: 76 Merchant: 230 WEST ALABAMA APART 713-5298707   Transaction Amount: 1266.56
+Name: Morasca Simona Account Number: 38829 Transaction Number: 64 Merchant: COMMODITY SYSTEMS INC  5613928663    Transaction Amount: 350
+Name: Morasca Simona Account Number: 38829 Transaction Number: 72 Merchant: SPRINT WIRELESS        800-639-6111  Transaction Amount: 199.6
+Name: John Doe Account Number: 22222 Transaction Number: 10 Merchant: Best Buy		New York       Transaction Amount: 10000
+Name: Joseph Dark Account Number: 43991 Transaction Number: 1 Merchant: CFA Institute          4349515499    Transaction Amount: 1009.9
+Name: Artie Venn Account Number: 44891 Transaction Number: 10 Merchant: Best Buy		New York       Transaction Amount: 10000
+Name: Dilliard Leota Account Number: 32628 Transaction Number: 16 Merchant: IN *POOL TEC POOL AND  936-3213252   Transaction Amount: 1677.85
+Name: Amigon Minna Account Number: 28226 Transaction Number: 21 Merchant: BEST WESTERN PLUS GARD FREMONT       Transaction Amount: 172.02
+Name: Amigon Minna Account Number: 28226 Transaction Number: 57 Merchant: FARMERS INS BILLING    877-327-6392  Transaction Amount: 145.05
+Name: Maclead Abel Account Number: 37226 Transaction Number: 14 Merchant: BEST BUY      00008706 SCOTTSDALE   Transaction Amount: 270.11
+Name: Maclead Abel Account Number: 37226 Transaction Number: 63 Merchant: 8898 E LEGACY BLVD     SCOTTSDALE     Transaction Amount: 303
+Name: Maclead Abel Account Number: 37226 Transaction Number: 10 Merchant: NORDSTROM #0380        SCOTTSDALE    Transaction Amount: 464.62
+Name: Maclead Abel Account Number: 37226 Transaction Number: 70 Merchant: HOUSTON S (713) 529-23 HOUSTON       Transaction Amount: 180.47
+Name: Maclead Abel Account Number: 37226 Transaction Number: 7 Merchant: APPLE.COM/US           800-676-2775  Transaction Amount: 269.04
+Name: Albares Cammy Account Number: 14829 Transaction Number: 3 Merchant: STADIUM GOODS NY       New York       Transaction Amount: 348.4
+Name: Slusarski Alisha Account Number: 30881 Transaction Number: 2 Merchant: NOT JUST SOCCER (NEW)  DALLAS        Transaction Amount: 151.54
+Name: Caudy Chanel Account Number: 15482 Transaction Number: 7 Merchant: WALMART.COM AX         8009666546    Transaction Amount: 237.07
+Name: Vocelka Francine Account Number: 20759 Transaction Number: 58 Merchant: TST* BOB S STEAK & CHO DALLAS        Transaction Amount: 387.34
+Name: Glick Albina Account Number: 17079 Transaction Number: 8 Merchant: WHOLEFDS SCA #10 2732 ASANTA CLARA  Transaction Amount: 457.37
+Name: Sergi Alishia Account Number: 26603 Transaction Number: 6 Merchant: DOORDASH*BJS RESTAURAN 6506819470    Transaction Amount: 127.8
+Name: Pawlowicz Gregoria Account Number: 16068 Transaction Number: 4 Merchant: IMMERSIVE VAN GOGH ... CHICAGO       Transaction Amount: 136.47
+Name: Ahle Delmy Account Number: 33653 Transaction Number: 5 Merchant: SQ *ROBERT ABBOTT TAX  Martinez      Transaction Amount: 450
+Name: Pugh Blondell Account Number: 30808 Transaction Number: 2 Merchant: EFT                    Santa Fe       Transaction Amount: 393.25
+Name: Anthony West Account Number: 54891 Transaction Number: 1 Merchant: CFA Institute          4349515499   Transaction Amount: 1009.9
+Name: Sawchuk Nelida Account Number: 28064 Transaction Number: 19 Merchant: CASH APP*              4153753176    Transaction Amount: 40
+Name: Weirather Daren Account Number: 23427 Transaction Number: 1 Merchant: APPLIED BANK PROCESSIN WILMINGTON    Transaction Amount: 89
+Name: Stem Lizette Account Number: 33452 Transaction Number: 1 Merchant: TARGET T- 1240 Broadwa Chula Vista    Transaction Amount: 91.89
+Name: Haroldson Cheryl Account Number: 20908 Transaction Number: 13 Merchant: AMERICAN               8004337300    Transaction Amount: 172.81
+Name: Dilliard Smith Account Number: 54722 Transaction Number: 1 Merchant: CFA Institute          4349515499    Transaction Amount: 1009.9
+Name: May Wilson Account Number: 54999 Transaction Number: 1 Merchant: CFA Institute          4349515499    Transaction Amount: 1009.9
+Name: Monica Abel Account Number: 33555 Transaction Number: 10 Merchant: Best Buy		New York       Transaction Amount: 10000
